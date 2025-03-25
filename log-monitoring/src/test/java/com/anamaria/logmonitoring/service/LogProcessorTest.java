@@ -1,10 +1,9 @@
-package com.anamaria.logmonitoring;
+package com.anamaria.logmonitoring.service;
 
 import com.anamaria.logmonitoring.util.Result;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
-
 
 class LogProcessorTest {
     private final LogProcessor processor = new LogProcessor();

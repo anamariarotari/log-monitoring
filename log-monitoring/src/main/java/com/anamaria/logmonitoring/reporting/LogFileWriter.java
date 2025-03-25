@@ -1,4 +1,4 @@
-package com.anamaria.logmonitoring;
+package com.anamaria.logmonitoring.reporting;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

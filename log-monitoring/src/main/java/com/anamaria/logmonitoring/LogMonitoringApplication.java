@@ -1,5 +1,8 @@
 package com.anamaria.logmonitoring;
 
+import com.anamaria.logmonitoring.reporting.LogFileWriter;
+import com.anamaria.logmonitoring.service.LogProcessor;
+
 import java.util.ArrayList;
 
 public class LogMonitoringApplication {

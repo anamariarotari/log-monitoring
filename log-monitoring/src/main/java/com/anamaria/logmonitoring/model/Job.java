@@ -1,4 +1,4 @@
-package com.anamaria.logmonitoring;
+package com.anamaria.logmonitoring.model;
 
 import lombok.Data;
 

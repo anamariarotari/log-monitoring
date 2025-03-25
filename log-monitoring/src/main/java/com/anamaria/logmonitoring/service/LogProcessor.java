@@ -1,4 +1,6 @@
-package com.anamaria.logmonitoring;
+package com.anamaria.logmonitoring.service;
+
+import com.anamaria.logmonitoring.model.Job;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
